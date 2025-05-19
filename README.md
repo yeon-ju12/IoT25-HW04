@@ -20,7 +20,7 @@ Therefore, I implemented the same functionality—sending and receiving messages
 This approach maintains the purpose of the assignment while ensuring compatibility with the iOS platform.
 
 ## Source code
-
+```cpp
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLEUtils.h>
