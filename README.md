@@ -5,9 +5,8 @@ Assignment 4. ESP32 Bluetooth Classic with Arduino IDE
 
 ## Result
 ![Serial Monitor](4-1.png)
-
-![Smartphone](4-2.png)
-![Smartphone](4-3.png)
+![SmartPhone](4-2.png)
+![SmartPhone](4-3.png)
 ---
 
 ## Note
